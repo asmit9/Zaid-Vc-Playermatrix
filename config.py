@@ -38,7 +38,7 @@ BOT_NAME = getenv("BOT_NAME", "Nancy")
 
 API_ID = int(getenv("API_ID", "27896987"))
 API_HASH = getenv("API_HASH", "0e017f716c49a52a0ba4a8bfa95ccaf7")
-MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://Cloner:Cloner@cluster0.cgc6t.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://asmit9831:plmokn123@cluster0.1xdv6mh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 OWNER_NAME = getenv("OWNER_NAME", "Zaid")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Timesisnotwaiting")
 ALIVE_NAME = getenv("ALIVE_NAME", "Matrix")
